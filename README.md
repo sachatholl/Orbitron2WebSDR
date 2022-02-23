@@ -1,4 +1,4 @@
-# Orbitron2WebSDR
+# WebSDR Cat-Control // Orbitron2WebSDR
 This application is developed to track satellite radio signals via WebSDR, taking into account the Doppler shift by using the MyDDE driver of the satellite tracker "Orbitron." 
 
 WebSDR (Web = accessible via the Internet, SDR = Software Defined Radio) is a radio receiver operating in a web browser. It feeds what it receives on the amateur radio bands live to the Internet and makes it available to all interested listeners via a web page.
@@ -13,8 +13,9 @@ In computing, DDE or Dynamic Data Exchange is a technology for interprocess comm
 
 The application "WebSDR Cat-Control" now establishes a connection from Orbitron to the WebSDR receiver via the MyDDE-Driver and forwards the Doppler-shifted reception-frequency of the satellite to be tracked in real-time.
 
-Things needed:
-==================
+WebSDR Cat-Control // Orbitron2WebSDR is developped in LabVIEW 2020
+
+# Things needed:
 -Orbitron version 3.71
 -MyDDE driver
 -prefered web browser (Firefox is recommended)
