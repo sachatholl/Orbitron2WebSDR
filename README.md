@@ -11,10 +11,10 @@ The application "WebSDR Cat-Control" now establishes a connection from Orbitron 
 
 Requirements:
 ----------------
-1)Orbitron version 3.71
+1)Orbitron version 3.71  (Download here: http://www.stoff.pl/)
 
-2)MyDDE driver
+2)MyDDE driver  (Download here: http://www.stoff.pl/orbitron/files/mydde.zip)
 
-3)prefered web browser (Firefox is recommended)
+3)prefered web browser (Firefox is recommended; download here: https://www.mozilla.org/en-US/firefox/new/)
 
-4)LabVIEW 2020 runtime engine
+4)LabVIEW 21 32bit runtime engine (https://www.ni.com/de-de/support/downloads/software-products/download.labview-runtime.html#443250)
