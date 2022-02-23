@@ -15,7 +15,7 @@ The application "WebSDR Cat-Control" now establishes a connection from Orbitron 
 
 WebSDR Cat-Control // Orbitron2WebSDR is developped in LabVIEW 2020
 
-# Things needed:
+Requirements:
 -Orbitron version 3.71
 -MyDDE driver
 -prefered web browser (Firefox is recommended)
