@@ -23,6 +23,7 @@ Requirements:
 Videos:
 ----------------
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
 <object width="560" height="315">
   <param name="movie" value="https://www.youtube.com/embed/3J_UkhTQFNA" />
@@ -31,3 +32,5 @@ Videos:
          type="application/x-shockwave-flash"
          wmode="transparent" width="560" height="315" />
 </object>
+
+
