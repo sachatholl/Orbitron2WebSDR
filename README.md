@@ -23,14 +23,7 @@ Requirements:
 Videos:
 ----------------
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![image](https://user-images.githubusercontent.com/3606905/155881361-6ffd647d-52a9-41cd-b79d-eba7ed12d5e0.png)](https://www.youtube.com/watch?v=3J_UkhTQFNA)
 
-<object width="560" height="315">
-  <param name="movie" value="https://www.youtube.com/embed/3J_UkhTQFNA" />
-  <param name="wmode" value="transparent" />
-  <embed src="https://www.youtube.com/embed/3J_UkhTQFNA"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="560" height="315" />
-</object>
 
 
