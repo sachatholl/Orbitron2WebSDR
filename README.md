@@ -18,3 +18,8 @@ Requirements:
 3)prefered web browser (Firefox is recommended; download here: https://www.mozilla.org/en-US/firefox/new/)
 
 4)LabVIEW 21 32bit runtime engine (https://www.ni.com/de-de/support/downloads/software-products/download.labview-runtime.html#443250)
+
+
+Technical videos:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3J_UkhTQFNA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
