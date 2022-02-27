@@ -20,6 +20,14 @@ Requirements:
 4)LabVIEW 21 32bit runtime engine (https://www.ni.com/de-de/support/downloads/software-products/download.labview-runtime.html#443250)
 
 
-Technical videos:
+Videos:
+----------------
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3J_UkhTQFNA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<object width="560" height="315">
+  <param name="movie" value="https://www.youtube.com/embed/3J_UkhTQFNA" />
+  <param name="wmode" value="transparent" />
+  <embed src="https://www.youtube.com/embed/3J_UkhTQFNA"
+         type="application/x-shockwave-flash"
+         wmode="transparent" width="560" height="315" />
+</object>
