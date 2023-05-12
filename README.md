@@ -22,6 +22,8 @@ Requirements:
 5) Install Orbitron2WebSDR Build for win 10: https://github.com/sachatholl/Orbitron2WebSDR/tree/main/Orbitron2Websdr_Win10Build
    Basically you should just nrrd to start the executable to work. The runtime engine is also provided
    in this folder (ni-labview-2021-runtime-engine-x86_21.1_online.exe)
+   Convinniently, you can download all of it using the provided .zip file 
+   under in the upper right corner on this page
 
 
 
