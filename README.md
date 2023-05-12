@@ -19,6 +19,10 @@ Requirements:
 
 4)LabVIEW 21 32bit runtime engine (https://www.ni.com/de-de/support/downloads/software-products/download.labview-runtime.html#443250)
 
+5)Install Orbitron2WebSDR Build for win 10: https://github.com/sachatholl/Orbitron2WebSDR/tree/main/Orbitron2Websdr_Win10Build
+Basically you should just nrrd to start the executable to work
+
+
 
 Videos:
 ----------------
