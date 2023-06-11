@@ -25,10 +25,17 @@ Requirements:
    modem options like baud rates (or bit rates), modulation modes, and other parameters.
    
         Some example satellite modems:
-             - For APRS satellites and the ISS: latest version of soundmodem http://uz7.ho.ua/packetradio.htm
-             - For cubesats using higher baudrates use latest version of hs_soundmodem http://uz7.ho.ua/packetradio.htm
-             - For AO73/FUNcube-1, NAYIF, JY1SAT over VHF  - https://funcube.org.uk/working-documents/funcube-telemetry-dashboard/
-             - For SSTV from the ISS over VHF: https://www.qsl.net/on6mu/rxsstv.htm
+             - For APRS satellites and the ISS: latest version of soundmodem:
+               http://uz7.ho.ua/packetradio.htm
+               
+             - For cubesats using higher baudrates use latest version of hs_soundmodem:
+               http://uz7.ho.ua/packetradio.htm
+               
+             - For AO73/FUNcube-1, NAYIF, JY1SAT over VHF: 
+               https://funcube.org.uk/working-documents/funcube-telemetry-dashboard/
+               
+             - For SSTV from the ISS over VHF: 
+               https://www.qsl.net/on6mu/rxsstv.htm
     
 6) Prefered web browser (Firefox is recommended; download here: https://www.mozilla.org/en-US/firefox/new/)
    But google chrome works also fine since the latest update of the Orbitron2WebSDR.
