@@ -43,6 +43,9 @@ Requirements:
                https://www.wraase.de/wxtoimg/
                and for updating the TLE's in WX2IMG:
                https://wxtoimgrestored.xyz/other-software/
+
+             - Meteor weather satellites (I didn't test this one):
+               https://leshamilton.co.uk/MeteorLRPTSuite.htm
     
 6) Prefered web browser (Firefox is recommended; download here: https://www.mozilla.org/en-US/firefox/new/)
    But google chrome works also fine since the latest update of the Orbitron2WebSDR.
