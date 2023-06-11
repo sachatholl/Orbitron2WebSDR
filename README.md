@@ -15,12 +15,27 @@ Requirements:
 
 2) MyDDE driver  (Download here: http://www.stoff.pl/orbitron/files/mydde.zip)
 
-3) Prefered web browser (Firefox is recommended; download here: https://www.mozilla.org/en-US/firefox/new/)
+4) Virtual audio cable enables audio signals to be streamed from the web browser running WebSDR to 
+   the corresponding satellite decoder modem (f.ex.: soundmodem, Funcube dashboard, RCSSTV, WX2IMG). 
+   Download here: https://vb-audio.com/Cable/
+
+5) Install the modem needed to decode the satellite's audio signal into processable telemetry or satellite image
+   (f.ex.: soundmodem, Funcube dashboard, RCSSTV, WX2IMG). Notice that here you must investigate which modem is needed 
+   to decode your satellite's telemetry data, auto beacons, or space-born images. Sometimes you must also set up correct 
+   modem options like baud rates (or bit rates), modulation modes, and other parameters.
+   
+        Some example satellite modems:
+             - For APRS satellites and the ISS: latest version of soundmodem http://uz7.ho.ua/packetradio.htm
+             - For cubesats using higher baudrates use latest version of hs_soundmodem http://uz7.ho.ua/packetradio.htm
+             - For AO73/FUNcube-1, NAYIF, JY1SAT over VHF  - https://funcube.org.uk/working-documents/funcube-telemetry-dashboard/
+             - For SSTV from the ISS over VHF: https://www.qsl.net/on6mu/rxsstv.htm
+    
+6) Prefered web browser (Firefox is recommended; download here: https://www.mozilla.org/en-US/firefox/new/)
    But google chrome works also fine since the latest update of the Orbitron2WebSDR.
 
-4) LabVIEW 21 32bit runtime engine (https://www.ni.com/de-de/support/downloads/software-products/download.labview-runtime.html#443250)
+7) LabVIEW 21 32bit runtime engine (https://www.ni.com/de-de/support/downloads/software-products/download.labview-runtime.html#443250)
 
-5) Install Orbitron2WebSDR Build for win 10: https://github.com/sachatholl/Orbitron2WebSDR/tree/main/Orbitron2Websdr_Win10Build
+8) Install Orbitron2WebSDR Build for win 10: https://github.com/sachatholl/Orbitron2WebSDR/tree/main/Orbitron2Websdr_Win10Build
    Convinniently, you can download all of it using the provided .zip file 
    under in the upper right corner on this page. The executable "Orbitron2WebSDR.exe"
    is located in the folder "Orbitron2Websdr_Win10Build" There, you find also the 
