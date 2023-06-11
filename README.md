@@ -36,6 +36,11 @@ Requirements:
                
              - For SSTV from the ISS over VHF: 
                https://www.qsl.net/on6mu/rxsstv.htm
+               
+             - NOAA and Meteor weather satellites - WX2IMG
+               https://wxtoimgrestored.xyz/downloads/
+               and for updating the TLE's within WX2IMG decoder:
+               https://wxtoimgrestored.xyz/other-software/
     
 6) Prefered web browser (Firefox is recommended; download here: https://www.mozilla.org/en-US/firefox/new/)
    But google chrome works also fine since the latest update of the Orbitron2WebSDR.
