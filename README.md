@@ -15,7 +15,8 @@ Requirements:
 
 2) MyDDE driver  (Download here: http://www.stoff.pl/orbitron/files/mydde.zip)
 
-3) prefered web browser (Firefox is recommended; download here: https://www.mozilla.org/en-US/firefox/new/)
+3) Prefered web browser (Firefox is recommended; download here: https://www.mozilla.org/en-US/firefox/new/)
+   But google chrome works also fine since the latest update of the Orbitron2WebSDR.
 
 4) LabVIEW 21 32bit runtime engine (https://www.ni.com/de-de/support/downloads/software-products/download.labview-runtime.html#443250)
 
