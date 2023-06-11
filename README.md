@@ -39,7 +39,9 @@ Requirements:
                
              - NOAA and Meteor weather satellites - WX2IMG
                https://wxtoimgrestored.xyz/downloads/
-               and for updating the TLE's within WX2IMG decoder:
+               or:
+               https://www.wraase.de/wxtoimg/
+               and for updating the TLE's in WX2IMG:
                https://wxtoimgrestored.xyz/other-software/
     
 6) Prefered web browser (Firefox is recommended; download here: https://www.mozilla.org/en-US/firefox/new/)
