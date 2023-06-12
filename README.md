@@ -47,8 +47,9 @@ Requirements:
     
 5) Download prefered web browser. I have tested those two with Orbitron2WebSDR: 
 
-              - Firefox is recommended; download here: https://www.mozilla.org/en-US/firefox/new/).
-              - Google chrome: https://www.google.com/chrome/?brand=YTUH&gclid=CjwKCAjwhJukBhBPEiwAniIcNQcMnoN9f7adkIPBTzIeZHJMiBlrEGvkuRs4LQamYxyKoYvDNWF9mBoCD6wQAvD_BwE&gclsrc=aw.ds.
+              - Firefox is recommended; download here: https://www.mozilla.org/en-US/firefox/new/
+              
+              - Google chrome: https://www.google.com/chrome/?brand=YTUH&gclid=CjwKCAjwhJukBhBPEiwAniIcNQcMnoN9f7adkIPBTzIeZHJMiBlrEGvkuRs4LQamYxyKoYvDNWF9mBoCD6wQAvD_BwE&gclsrc=aw.ds
 
 6) LabVIEW 21 32bit runtime engine (https://www.ni.com/de-de/support/downloads/software-products/download.labview-runtime.html#443250)
 
