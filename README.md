@@ -94,8 +94,7 @@ Requirements:
                     without having to rely on separate monitoring methods or applications. Enabling the "Listen to this device" 
                     feature with your speakers selected as the playback device can help you verify that the audio is being 
                     properly routed and allows you to hear the output in real-time. It can be particularly useful when 
-                    troubleshooting audio routing issues or when you need to monitor the audio for any specific purpose, 
-                    such as quality assurance or real-time feedback.
+                    troubleshooting audio routing issues or when you need real-time feedback to monitor the audio.
                     
              - Configure your satellite's software modem/decoder to use VB-Audio Cable as the audio input. 
                Please consult the technical reference of the intended software modem/decoder.
