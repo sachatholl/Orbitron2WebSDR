@@ -63,7 +63,8 @@ Requirements:
    
 8) Configure Audio routing between the Webbrowser with active WebSDR station and 
    the satellite modem. Conveniently perform the steps as shown in the tutorial 
-   video below, or perform the following steps similarly:
+   video below, or perform the following steps similarly. The steps may vary 
+   depending on your Windows system or config:
 
              - Configure VB-Audio Cable as the default audio device:
                   - Right-click the speaker icon in the Windows taskbar and select "Open Sound settings."
