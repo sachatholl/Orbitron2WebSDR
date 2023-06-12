@@ -60,6 +60,39 @@ Requirements:
    After having poperly installed the runtime engine, you should be able
    to start "Orbitron2WebSDR.exe" out of the box.
    
+9) Configure Audio routing between the Webbrowser with active WebSDR station and 
+   the satellite modem. Conveniently perform the steps as shown in the tutorial 
+   video below, or perform the following steps similarly:
+
+             - Configure VB-Audio Cable as the default audio device:
+                  - Right-click the speaker icon in the Windows taskbar and select "Open Sound settings."
+                  - Under the "Output" section, select VB-Audio Cable as the default audio device for playback.
+                  - Under the "Input" section, select VB-Audio Cable as the default audio device for recording.
+
+             - Set up the WebSDR satellite ground station:
+                  - Open your preferred web browser and navigate to the WebSDR satellite ground station 
+                    you want to use.
+                  - Tune the receiver to the appropriate frequency and ensure you can hear the audio output.
+
+             - Configure audio routing:
+                  - Open the Control Panel on your computer.
+                  - Navigate to "Hardware and Sound" and click on "Sound."
+                  - In the "Playback" tab, select the audio output device corresponding to your speakers 
+                    or headphones and set it as the default device.
+                  - In the "Recording" tab, select VB-Audio Cable as the default recording device.
+                    
+             - Configure your satellite's software modem/decoder to use VB-Audio Cable as the audio input. 
+               Please consult the technical reference of the intended software modem/decoder.
+           
+             - Start decoding-test if possible:
+                  - Launch the satellite's software modem/decoder.
+                  - Ensure the audio is playing from the WebSDR satellite ground station and 
+                    routed through VB-Audio Cable.
+                  - Start the decoding process of your satellite's software modem/decoder if needed.
+
+             - The WebSDR satellite ground station audio signal should now be received by your satellite's software modem/decoder 
+               and used for decoding the telemetry data, auto beacons, or space-born satellite images.
+   
    Whish you a nice time :-)
    have fun,
   
