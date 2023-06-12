@@ -46,7 +46,7 @@ Requirements:
                https://leshamilton.co.uk/MeteorLRPTSuite.htm
     
 5) Prefered web browser (Firefox is recommended; download here: https://www.mozilla.org/en-US/firefox/new/)
-   But google chrome works also fine since the latest update of the Orbitron2WebSDR.
+   Google chrome now works also fine since the latest update of the Orbitron2WebSDR.
 
 6) LabVIEW 21 32bit runtime engine (https://www.ni.com/de-de/support/downloads/software-products/download.labview-runtime.html#443250)
 
