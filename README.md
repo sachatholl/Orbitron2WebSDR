@@ -7,6 +7,8 @@ WebSDR (Web = accessible via the Internet, SDR = Software Defined Radio) is a ra
 Orbitron provides a driver called MyDDE for this purpose. This driver transmits the receive frequency via DDE. In computing, DDE or Dynamic Data Exchange is a technology for interprocess communication used in early versions of Microsoft Windows and OS/2. DDE allows programs to manipulate objects provided by other programs and respond to user actions affecting those objects.
 The application "WebSDR Cat-Control" now establishes a connection from Orbitron to the WebSDR receiver via the MyDDE-Driver and forwards the Doppler-shifted reception frequency of the satellite to be tracked in real-time. WebSDR Cat-Control // Orbitron2WebSDR is developed in LabVIEW 2021.
 
+Orbitron2WebSDR can also be operated with MyDDENet (https://github.com/sachatholl/MyDDENet) if your WebSDR browser runs on another machine in your LAN or location (VPN).
+
 Requirements:
 ----------------
 1) Orbitron version 3.71  (Download here: http://www.stoff.pl/)
